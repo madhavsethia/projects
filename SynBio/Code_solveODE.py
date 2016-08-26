@@ -14,10 +14,10 @@ import pylab
 The Following Simulations Documentations:
 
 Basic Operations:
-1. Inhibition(Symbol: '--|' ): This means in presence of an inhibitor the Product would be not formed,
+1. Inhibition(Symbol: '--|'): This means in presence of an inhibitor the Product would be not formed,
    and otherwise it will be continuously formed.
    For Instance. A --| B This means that if A is present, it would stop formation of B.
-2. Promotion(Symbol: '-->' ) : This means in presence of the product will be formed only when the 
+2. Promotion(Symbol: '-->') : This means in presence of the product will be formed only when the 
    promoter is present in the vicinity.
    For Instance. A --> B This means that B will be produced only if A is present.
 
